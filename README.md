@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alex.nnenna.okoro@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEwq6FDggU/pDKmKbS4c-ex1sSJow7leg/view?utm_content=DAEwq6FDggU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEwq6FDggU/pDKmKbS4c-ex1sSJow7leg/view?utm_content=DAEwq6FDggU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [by checking out my CV](https://www.canva.com/design/DAEwq6FDggU/pDKmKbS4c-ex1sSJow7leg/view?utm_content=DAEwq6FDggU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - ⚡ Fun fact **I love knowledge sharing, so you will probably find me giving an insight or learning from people about random topics.**
 
