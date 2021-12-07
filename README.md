@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Ruby on Rails, puzzles**
 
-- 📫 You can reach with my email **alex.nnenna.okoro@gmail.com**
+- 📫 You can reach me through email **alex.nnenna.okoro@gmail.com**
 
 - 📄 Know about my experiences by [checking out my CV](https://drive.google.com/file/d/1nLYHfnz5yWxEDUeJMC6xsWRBVzxc-sgm/view?usp=sharing)
 
