@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React with Rails backend**
 
-- 👯 I’m looking to collaborate on **React and Ruby on rails project**
+- 👯 I’m looking to collaborate on **React and Ruby on Rails project**
 
-- 💬 Ask me about **react, ruby on rails, puzzles**
+- 💬 Ask me about **React, Ruby on Rails, puzzles**
 
-- 📫 How to reach me **alex.nnenna.okoro@gmail.com**
+- 📫 You can reach with my email **alex.nnenna.okoro@gmail.com**
 
 - 📄 Know about my experiences by [checking out my CV](https://drive.google.com/file/d/1nLYHfnz5yWxEDUeJMC6xsWRBVzxc-sgm/view?usp=sharing)
 
