@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandra Okoro</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A full stack web developer with a love for puzzles and problem solving</h3>
 
 - 🌱 I’m currently learning **React with Rails backend**
 
