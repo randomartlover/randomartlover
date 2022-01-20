@@ -3,7 +3,7 @@
 
 - 🎉 I recently completed Le Wagon bootcamp (London #751), in December 2021. My product pitch ([Game-On!](http://www.gameonhost.co.uk/)) was chosen as a final project to be done within 2 weeks at the end of the bootcamp. It was an amazing and extremely educational experience.
 
-- 🌱 I’m currently learning **React with Node.js backend**
+- 🌱 I’m currently learning **TypeScript and TDD (React)**
 
 - 💬 Ask me about **React, Ruby on Rails, Node.js, puzzles**
 
