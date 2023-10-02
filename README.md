@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandra Okoro</h1>
 <h3 align="center">A problem solver first 🕵️‍♀️, a full stack developer second 💻</h3>
 
-- 🎉 I recently completed Le Wagon bootcamp (London #751), in December 2021. My product pitch ([Game-On!](http://www.gameonhost.co.uk/)) was chosen as a final project to be done within 2 weeks at the end of the bootcamp. It was an amazing and extremely educational experience.
-
-- 🌱 I’m currently learning **TypeScript and TDD (React)**
-
 - 💬 Ask me about **React, Ruby on Rails, Node.js, puzzles**
 
 - 📫 You can reach me through email **alex.nnenna.okoro@gmail.com**
